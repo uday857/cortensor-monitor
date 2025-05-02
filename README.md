@@ -1,12 +1,3 @@
-# Cortensor Node Monitoring Script
+# Cortensor Monitor Script
 
-This Node.js script monitors Cortensor node performance from the dashboard and sends Telegram alerts for:
-
-- Inactive nodes
-- Rank/Score drops
-- Stagnant counters
-- 2-hour performance summaries
-
-## Setup
-
-1. Install dependencies:
+This is a Node.js script for monitoring Cortensor nodes and sending alerts via Telegram.
